@@ -4,7 +4,7 @@ import { Navbar, Button, Container } from 'react-bootstrap';
 
 export default function Header() {
   return (
-    <header className="main-header d-lg-blockd-none">
+    <header className="main-header d-lg-block d-none">
       <div className="header-upper">
         <Container>
           <div className="header-inner d-flex align-items-center justify-content-between">
