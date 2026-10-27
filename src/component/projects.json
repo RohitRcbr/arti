@@ -1,0 +1,26 @@
+[
+  {
+    "title": "Retailing Software",
+    "url": "#",
+    "category": "development",
+    "image": "retail.png",
+    "stack": "ASP.NET Core · SQL Server · jQuery",
+    "description": "Retail management system for billing, inventory management, and sales tracking. Implemented product management, customer handling, and reporting modules. Built both frontend and backend using HTML, jQuery, ASP.NET Core, and SQL Server."
+  },
+  {
+    "title": "Hospital Information System (HIS)",
+    "url": "#",
+    "category": "development",
+    "image": "his.png",
+    "stack": "ASP.NET Core · SQL Server",
+    "description": "Hospital management modules covering patient records, appointment scheduling, and billing. Improved data handling and workflow automation for hospital operations, with integrated database operations and user management."
+  },
+  {
+    "title": "Banquet Management System",
+    "url": "#",
+    "category": "development",
+    "image": "banquet.png",
+    "stack": "ASP.NET Core · SQL Server",
+    "description": "Modules for banquet booking, event scheduling, and customer management. Managed hall reservations, billing processes, and event tracking. Enhanced booking workflows and report generation for efficient banquet operations."
+  }
+]
